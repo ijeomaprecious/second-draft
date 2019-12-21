@@ -1,0 +1,71 @@
+.header{
+    background-color: gold;
+    color: white;
+    font-size: 30px;
+}
+img{
+    width:400px;
+    height:600px;
+    margin-left:300px;
+}
+.paragraph{
+    width:300px;
+    margin:120px 20px 40px 160px;
+}
+
+.paragraph > h3{
+    font-size:70px;
+    font-weight:200px;
+}
+#reed{
+    background-color:green;
+    border-radius: 40px;
+    margin:10px;
+    padding: 10px;
+}
+h2{
+    margin:90px;
+    color:gold;
+}
+.white{
+    color:white;
+}
+.bok{
+    color:white;
+}
+.rove{
+    color:white;
+}
+h3{
+    color: green;
+}
+h5{
+    color:gold;
+}
+.head2{
+    color:green;
+    font-weight:bolder;
+}
+.head{
+    color:green;
+    background-color: white;
+    border-bottom-right-radius: 350px;
+    border-top-right-radius: 350px;
+    border-right:2px solid green;
+    padding-left:10px;
+    font-weight:bolder;
+    width:100px;
+    
+ }
+.side{
+    margin-left: 100px;
+}
+body{
+    background-color: black;
+}
+.container{
+    background-color: white;
+}
+
+
+
